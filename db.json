@@ -1,0 +1,66 @@
+{
+  "productos": [
+    {
+      "id": "4ed6764d-c403-4a7c-a369-0c911b724d23",
+      "nombre": "Figura Zenitsu ",
+      "urlImagen": "https://i.pinimg.com/736x/b9/ad/92/b9ad92f344afe3cc57350edd8ec2cdd5.jpg",
+      "categoria": "Diversos",
+      "precio": "35.99",
+      "descripcion": "Figura Anime"
+    },
+    {
+      "urlImagen": "https://i5.walmartimages.com/seo/Sony-PlayStation-5-Gaming-Console_02021359-c4bb-410e-940a-12930acbfd57.4d050069b07b687682d48144eb9d9032.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "categoria": "Consolas",
+      "nombre": "Playstation 5",
+      "precio": "499.99",
+      "descripcion": "Consola última generación",
+      "id": "f8f334f7-ae36-43b8-a4d1-d82315e5243b"
+    },
+    {
+      "id": "0c7d73a0-e376-4066-9651-7ccc08688931",
+      "nombre": "Samsung galaxy S23 ",
+      "urlImagen": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1412%2FELECTROHOGAR%2FSAMSUNG%20GALAXY%20S23%20ULTRA%205G%20256GB%2012GB%20RAM%20NEGRO.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=a66a7f2ddcb46cf22b85b1c517462fad",
+      "categoria": "Diversos",
+      "precio": "1299.99",
+      "descripcion": "Celulares"
+    },
+    {
+      "id": "df978ff8-8931-446c-a4bb-d69e6680c72f",
+      "nombre": "T-Shirt Toji F",
+      "urlImagen": "https://i.ebayimg.com/images/g/GiAAAOSw3G5k2muT/s-l1200.webp",
+      "categoria": "Diversos",
+      "precio": "20.00",
+      "descripcion": "T-shirt anime "
+    },
+    {
+      "urlImagen": "https://movicenter.com.pa/wp-content/uploads/2023/10/86c82e3d34595a405d18155633e9e7b2ee5ed667_Apple_MU773ZP_A_Mobile_Phone_Hero_1.jpg",
+      "categoria": "Diversos",
+      "nombre": "Iphone 15 Pro Max",
+      "precio": "1399.99",
+      "descripcion": "Celulares",
+      "id": "f7631b16-1dad-439c-a4ac-aeab9b5694ce"
+    },
+    {
+      "id": "428093db-e105-4acc-a683-a9f80a35cc77",
+      "nombre": "Reloj",
+      "urlImagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/97a8541a-60a8-4cae-acbd-423430a1d842.5760a5d47424887bf9b178d025f1ac1c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "categoria": "Diversos",
+      "precio": "39.99",
+      "descripcion": "Reloj Minecraft"
+    },
+    {
+      "id": "15dafcbd-ad90-48e2-a198-8e27961b47cf",
+      "nombre": "Figura Tengen Uzui",
+      "urlImagen": "https://ryokufiguras.com/wp-content/uploads/2023/06/Figura-Tengen-Uzui-Demon-Slayer-FIGURE-Kimetsu-No-Yaiba-Bandai-Spirits.webp",
+      "categoria": "Diversos",
+      "precio": "35.99",
+      "descripcion": "Figura Anime"
+    }
+  ],
+  "perfil": [
+    {
+      "email": "usuario@example.com",
+      "contraseña": "contraseña_segura"
+    }
+  ]
+}
