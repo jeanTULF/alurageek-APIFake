@@ -55,6 +55,182 @@
       "categoria": "Diversos",
       "precio": "35.99",
       "descripcion": "Figura Anime"
+    },
+    {
+      "id": "1b65c7e2-f448-45cc-a36f-e1c4ffd54825",
+      "nombre": "Nintendo Switch Oled",
+      "urlImagen": "https://images.nintendolife.com/8e86711e11ddf/switch-oled-model.large.jpg",
+      "categoria": "Consolas",
+      "precio": "349.99",
+      "descripcion": "Consola portátil"
+    },
+    {
+      "id": "c48723c9-6732-4493-af70-d9d1823361da",
+      "nombre": "Nintendo Switch",
+      "urlImagen": "https://www.nintendo.com/sg/hardware/detail/switch/img/01-hero/01sp.jpg",
+      "categoria": "Consolas",
+      "precio": "299.99",
+      "descripcion": "Consola portátil"
+    },
+    {
+      "id": "90e6a044-e40f-452a-8079-c0852ff8f1e0",
+      "nombre": "Xbox Series X",
+      "urlImagen": "https://cdn-3.expansion.mx/dims4/default/c78aa0d/2147483647/strip/true/crop/876x587+0+0/resize/1200x804!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Faa%2F19%2F424015944108888aa6a1d8e49702%2Fxbox-series-x.JPG",
+      "categoria": "Consolas",
+      "precio": "499.99",
+      "descripcion": "Consola última generación "
+    },
+    {
+      "id": "32a99858-e823-47aa-83e2-627a742b78fa",
+      "nombre": "Xbox Series S",
+      "urlImagen": "https://www.techadvisor.com/wp-content/uploads/2022/11/xbox_series_s-03.jpg?quality=50&strip=all",
+      "categoria": "Consolas",
+      "precio": "299.99",
+      "descripcion": "Consola última generación"
+    },
+    {
+      "id": "446ae220-23ce-44f2-8b0b-98645a847b2a",
+      "nombre": "Steam Deck (512 GB)",
+      "urlImagen": "https://cdn.cloudflare.steamstatic.com/steamdeck/images/video/overview_oled.jpg",
+      "categoria": "Consolas",
+      "precio": "549.99",
+      "descripcion": "Consola portátil"
+    },
+    {
+      "id": "145edb7d-0e75-4fe7-86b0-2902e052b2e6",
+      "nombre": "Rog Ally",
+      "urlImagen": "https://i.blogs.es/a8ef4c/asus-rog-ally-analisis-21/1366_2000.jpeg",
+      "categoria": "Consolas",
+      "precio": "699.99",
+      "descripcion": "Consola portátil"
+    },
+    {
+      "id": "02292ec3-1d19-44ec-b8c3-0544ce5e5070",
+      "nombre": "Control elite s2 ",
+      "urlImagen": "https://m.media-amazon.com/images/I/717CbcnmsxL._AC_UF1000,1000_QL80_.jpg",
+      "categoria": "Consolas",
+      "precio": "149.99",
+      "descripcion": "Control Xbox"
+    },
+    {
+      "id": "20c64ec6-c8e5-4d39-8559-14b9fc5fa4a5",
+      "nombre": "Control PS5 GOW",
+      "urlImagen": "https://static.wixstatic.com/media/b6c5a2_c8c2c8e4e5024c798a41b07f3628e7fa~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b6c5a2_c8c2c8e4e5024c798a41b07f3628e7fa~mv2.png",
+      "categoria": "Consolas",
+      "precio": "69.99",
+      "descripcion": "Dualsense Playstation edición God of War Ragnarok"
+    },
+    {
+      "id": "1be7a8f2-1b5f-42c9-aad6-fb5521dbc76f",
+      "nombre": "Playstation VR2",
+      "urlImagen": "https://i.ytimg.com/vi_webp/-n_O8s6Eaps/maxresdefault.webp",
+      "categoria": "Consolas",
+      "precio": "549.99",
+      "descripcion": "PlayStation Tecnología VR2 Sense: Seguimiento ocular. Retroalimentación de auriculares. Audio 3D."
+    },
+    {
+      "id": "4e8aa901-15a6-41a9-a271-1e0d366c4bb3",
+      "nombre": "Volante (ps4, xbox)",
+      "urlImagen": "https://bannerlandpty.com/wp-content/uploads/2021/03/g29-02.jpg",
+      "categoria": "Consolas",
+      "precio": "269.99",
+      "descripcion": "Bundle volante y pedales"
+    },
+    {
+      "id": "f0614386-62af-4efa-a4ad-98d9550c3cbe",
+      "nombre": "Funko Pop Gojo",
+      "urlImagen": "https://www.korasama.com/storage/2023/01/889698613576.jpg",
+      "categoria": "Diversos",
+      "precio": "19.99",
+      "descripcion": "Funko Satoru Gojo"
+    },
+    {
+      "id": "b7737aa0-6fe8-4d41-982e-1e6ed6ae5294",
+      "nombre": "Funko Pop Megumi",
+      "urlImagen": "https://korasama.b-cdn.net/storage/2023/01/889698613606.jpg",
+      "categoria": "Diversos",
+      "precio": "19.99",
+      "descripcion": "Funko Pop Fushiguro Megumi"
+    },
+    {
+      "id": "81462d24-fc84-44a3-afb2-a8fea91fac98",
+      "nombre": "Funko Pop Itadori",
+      "urlImagen": "https://www.1001hobbies.es/1837078-large_default/funko-14956-jujutsu-kaisen-funko-pop-edicion-especial-ee-uu-yu.jpg",
+      "categoria": "Diversos",
+      "precio": "25.99",
+      "descripcion": "Funko pop Itadori (Edición especial)"
+    },
+    {
+      "id": "fbb35518-78a3-467a-a44b-615fb515f528",
+      "nombre": "Funko Pop Toudo",
+      "urlImagen": "https://bellascositas.es/34408/funko-pop-aoi-todo-1377-jujutsu-kaisen-special-edition.jpg",
+      "categoria": "Diversos",
+      "precio": "19.99",
+      "descripcion": "Funko pop Toudo Aoi"
+    },
+    {
+      "id": "cc3c23a4-5bef-4a02-abc8-9cbb57c7f3fd",
+      "nombre": "Figura  K.Tanjiro",
+      "urlImagen": "https://m.media-amazon.com/images/I/71aQ04UVTML.jpg",
+      "categoria": "Diversos",
+      "precio": "89.99",
+      "descripcion": "Figura Anime"
+    },
+    {
+      "id": "9b9aceb1-534c-47fc-86d5-5b52825e9803",
+      "nombre": "Figura Nezuko",
+      "urlImagen": "https://tamashiiweb.com/images/item/item_0000014103_x97vAJ0M_06.jpg",
+      "categoria": "Diversos",
+      "precio": "49.99",
+      "descripcion": "Figura anime"
+    },
+    {
+      "id": "619487b5-e858-4764-8564-df6e3bc02591",
+      "nombre": "Gorro Teemo",
+      "urlImagen": "https://pokeplush.cl/wp-content/uploads/2021/06/gorro-teemo-pokeplush.jpg",
+      "categoria": "Diversos",
+      "precio": "35.99",
+      "descripcion": "Accesorio"
+    },
+    {
+      "id": "5458606c-6128-4d36-ab4e-d3b45e0a7c10",
+      "nombre": "Lámpara Minecraft",
+      "urlImagen": "https://files.cults3d.com/uploaders/14424175/illustration-file/29374506-1455-4d1c-b43a-5364d82873ef/def.png",
+      "categoria": "Diversos",
+      "precio": "29.99",
+      "descripcion": "Lámpara para cuarto"
+    },
+    {
+      "id": "739ad3b5-4b4b-48f3-b931-cc754d345cff",
+      "nombre": "Taza Minecraft XL",
+      "urlImagen": "https://m.media-amazon.com/images/I/91azDKoA-uL._AC_UF894,1000_QL80_.jpg",
+      "categoria": "Diversos",
+      "precio": "25.99",
+      "descripcion": "Taza para bebida cambia color "
+    },
+    {
+      "id": "9d958766-1393-48f3-983a-539db6c88617",
+      "nombre": "Cuadro 3D DB",
+      "urlImagen": "https://sublisimba.cl/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-22-at-10.04.11-PM-1.jpeg",
+      "categoria": "Diversos",
+      "precio": "29.99",
+      "descripcion": "Cuadro Dragon Ball Z"
+    },
+    {
+      "id": "91a173b1-8cc6-4660-92aa-16c492fd1406",
+      "nombre": "Razer Viper Mini",
+      "urlImagen": "https://www.syscomstore.com/image/cache/catalog/productos/Mouse%20y%20Pad/vipermini-600x600.png",
+      "categoria": "Consolas",
+      "precio": "25.99",
+      "descripcion": "Periférico PC"
+    },
+    {
+      "id": "5baa9eef-3056-4942-865f-cf404d044234",
+      "nombre": "Audifonos Gamer",
+      "urlImagen": "https://solucioneshacs.com/wp-content/uploads/2021/12/1-1-1.jpg",
+      "categoria": "Consolas",
+      "precio": "19.99",
+      "descripcion": "Audífonos con forma de gato inalámbricos "
     }
   ],
   "perfil": [
