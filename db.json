@@ -231,7 +231,91 @@
       "categoria": "Consolas",
       "precio": "19.99",
       "descripcion": "Audífonos con forma de gato inalámbricos "
-    }
+    },
+    {
+      "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+      "categoria": "Starwars",
+      "nombre": "Figura de acción de Darth Vader",
+      "precio": 25.99,
+      "descripcion": "Figura de acción de Darth Vader, el villano icónico de Star Wars."
+  },
+  {
+      "id": "f69e3326-cfd8-48dd-90f0-78787949ecb3",
+      "categoria": "Starwars",
+      "nombre": "Sable de luz de Luke Skywalker",
+      "precio": 39.99,
+      "descripcion": "Réplica del sable de luz utilizado por Luke Skywalker en la trilogía original de Star Wars."
+  },
+  {
+      "id": "7d291e88-4a12-4c41-a890-ae5090ec0a51",
+      "categoria": "Starwars",
+      "nombre": "Nave espacial X-wing",
+      "precio": 49.99,
+      "descripcion": "Maqueta de la nave espacial X-wing de la Alianza Rebelde, utilizada en la Batalla de Yavin."
+  },
+  {
+      "id": "8c3b8d2e-8e13-4234-bbdf-5e4ea8463a1a",
+      "categoria": "Starwars",
+      "nombre": "Figura de acción de Yoda",
+      "precio": 29.99,
+      "descripcion": "Figura de acción de Yoda, el legendario Maestro Jedi."
+  },
+  {
+      "id": "4907bde3-2891-4c09-9bf1-68a15c7db2a0",
+      "categoria": "Starwars",
+      "nombre": "Nave espacial Millennium Falcon",
+      "precio": 89.99,
+      "descripcion": "Maqueta del icónico Halcón Milenario, la nave de Han Solo y Chewbacca."
+  },
+  {
+      "id": "a0fd7a87-8f5b-4ad4-b02c-f3e86282f5e0",
+      "categoria": "Starwars",
+      "nombre": "Casco de Stormtrooper",
+      "precio": 59.99,
+      "descripcion": "Réplica del casco de los soldados de asalto Imperiales, los Stormtroopers."
+  },
+  {
+      "id": "2e8858bb-fb45-4b5c-a4d2-623c1e10fbb5",
+      "categoria": "Starwars",
+      "nombre": "Figura de acción de Han Solo",
+      "precio": 27.99,
+      "descripcion": "Figura de acción de Han Solo, el carismático contrabandista y piloto del Halcón Milenario."
+  },
+  {
+      "id": "4c31aa02-6368-4947-8c4b-7dd3d7e7e2b9",
+      "categoria": "Starwars",
+      "nombre": "Nave espacial TIE Fighter",
+      "precio": 44.99,
+      "descripcion": "Maqueta del caza estelar TIE Fighter utilizado por el Imperio Galáctico."
+  },
+  {
+      "id": "cda8a4ee-6e0a-45a6-90e7-408eeb0ad484",
+      "categoria": "Starwars",
+      "nombre": "Figura de acción de Rey",
+      "precio": 33.99,
+      "descripcion": "Figura de acción de Rey, la heroína principal de la trilogía secuela de Star Wars."
+  },
+  {
+      "id": "8fdeee5e-5f32-46b1-bc95-1d1c2c3fdcd9",
+      "categoria": "Starwars",
+      "nombre": "Nave espacial Slave I",
+      "precio": 69.99,
+      "descripcion": "Maqueta de la nave esclava I, la nave de Boba Fett, el infame cazarrecompensas."
+  },
+  {
+      "id": "6a0a6b6b-6d3e-46c1-bfc1-5b0be9ad7fd0",
+      "categoria": "Starwars",
+      "nombre": "Figura de acción de Obi-Wan Kenobi",
+      "precio": 31.99,
+      "descripcion": "Figura de acción de Obi-Wan Kenobi, el venerable Maestro Jedi."
+  },
+  {
+      "id": "d43a9261-269e-441a-8367-fcb5d885a7c4",
+      "categoria": "Starwars",
+      "nombre": "Nave espacial Imperial Star Destroyer",
+      "precio": 99.99,
+      "descripcion": "Maqueta del destructor estelar Imperial, una de las naves capitales más temidas del Imperio Galáctico."
+  }
   ],
   "perfil": [
     {
